@@ -1,0 +1,17 @@
+D:\ccc\techPr\Kurs_addon\Kurs_addon\bin\Debug\net7.0-windows\Kurs_addon.exe
+D:\ccc\techPr\Kurs_addon\Kurs_addon\bin\Debug\net7.0-windows\Kurs_addon.deps.json
+D:\ccc\techPr\Kurs_addon\Kurs_addon\bin\Debug\net7.0-windows\Kurs_addon.runtimeconfig.json
+D:\ccc\techPr\Kurs_addon\Kurs_addon\bin\Debug\net7.0-windows\Kurs_addon.dll
+D:\ccc\techPr\Kurs_addon\Kurs_addon\bin\Debug\net7.0-windows\Kurs_addon.pdb
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.csproj.AssemblyReference.cache
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.Form1.resources
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.csproj.GenerateResource.cache
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.GeneratedMSBuildEditorConfig.editorconfig
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.AssemblyInfoInputs.cache
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.AssemblyInfo.cs
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.csproj.CoreCompileInputs.cache
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.dll
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\refint\Kurs_addon.dll
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.pdb
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\Kurs_addon.genruntimeconfig.cache
+D:\ccc\techPr\Kurs_addon\Kurs_addon\obj\Debug\net7.0-windows\ref\Kurs_addon.dll
